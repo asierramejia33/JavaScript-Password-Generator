@@ -2,12 +2,14 @@
 
 ## What is this about
 ```
-Best security practices require to use complex passwords which should include a combinations of special characters, numbers, upercase and lowercase letters. 
+Best security practices require to use complex passwords which should include 
+a combinations of special characters, numbers, upercase and lowercase letters. 
 ```
 ## How this aplication can help you
 
 ```
-This application will help you create a random passord. You can select the length of your password from 8 to 128 characters and also which type of chracters to include on it. 
+This application will help you create a random passord. You can select the length of your
+ password from 8 to 128 characters and also which type of chracters to include on it. 
 ```
 ## Where can you find it
 
