@@ -20,7 +20,6 @@ function generatePassword() {
     var finalPassword = [];
 
     // receive user's input on the number of characters and validats that its range is between 8-128
-    // The parseInt() function parses a string argument and returns an integer
     totalCharacters = prompt("How many characters would you like to be included in your random password" + "\n Choose between 8 and 128 characters");
 
     if (totalCharacters < 8 || totalCharacters > 128) {
