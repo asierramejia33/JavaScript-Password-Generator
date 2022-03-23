@@ -9,7 +9,7 @@ a combinations of special characters, numbers, upercase and lowercase letters.
 
 ```
 This application will help you create a random passord. You can select the length of your
- password from 8 to 128 characters and also which type of chracters to include on it. 
+password from 8 to 128 characters and also which type of chracters to include on it. 
 ```
 ## Where can you find it
 
